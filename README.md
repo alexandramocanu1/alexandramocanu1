@@ -18,7 +18,7 @@ I'm Alexandra Mocanu, a second-year student studying Computer Science at the Fac
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandramocanu1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🎓 **Education:** 
+<!--### 🎓 **Education:** 
 I completed my high school education at Cantemir Voda National College.<br/>
 
 ### 💻 **Projects:**
@@ -29,7 +29,7 @@ Outside of academics, I've been practicing karate for over 10 years and currentl
 
 ### 🤝 **Volunteering:**
 Additionally, I'm actively involved as a volunteer at ASMI (Asociatia Studentilor de la Facultatea de Matematica si Informatica Bucuresti).<br/>
-
+-->
 
 Thank you for visiting my profile! 🚀
 
